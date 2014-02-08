@@ -460,6 +460,7 @@
 				842ABB9C18A4873F0054177E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		842ABB9D18A4873F0054177E /* Build configuration list for PBXNativeTarget "FirstiOSAppTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				842ABB9F18A4873F0054177E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
